@@ -33,6 +33,7 @@ p {
   color: #d9dcd6;
 }
 
+/*changed div element reference to nav from change to match change from HTML*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -73,6 +74,7 @@ p {
   margin-left: 20px;
 }
 
+/* Consolidated styling for search-engine-optimization, online-reputation-management, online-reputation-management classes into one class style (re-named main-content-section) since previously all different classes were styling identically */
 .main-content-section {
   margin-bottom: 20px;
   padding: 50px;
@@ -103,6 +105,7 @@ p {
   background-color: #2589bd;
 }
 
+/* Consolidated styling for benefit-lead, benefit-brand, and benefit-cost classes into one class style (re-named benefit-side-sections) since previously all different classes were styling identically; same was done for h3 and img child elements */
 .benefit-side-sections {
   margin-bottom: 32px;
   color: #ffffff;
