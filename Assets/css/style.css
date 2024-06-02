@@ -110,9 +110,11 @@ p {
 .benefit-side-sections {
   margin-bottom: 32px;
   color: #ffffff;
+  font-weight: 200%;
 }
 
 .benefit-side-sections h3 {
+  font-size: 24px;
   margin-bottom: 10px;
   text-align: center;
 }
