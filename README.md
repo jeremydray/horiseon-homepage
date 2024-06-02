@@ -8,6 +8,8 @@
 
 ## **1.    Introduction**
 
+** **This code was originally authored and provided by <u>Horiseon Social Solution Services, Inc.</u> and is only intended for teaching purposes. This is not to be used for any other purpose or for any other commercial use.**
+
 The goal of this project was to take the existing Horiseon Social Solution homepage code and clean it up for more visibility and accessibility for all end users as well as reduced redundancy in the code used.
 
 ## **2.   Link to Deployed Page**
