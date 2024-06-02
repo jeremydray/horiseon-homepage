@@ -27,6 +27,6 @@ While the changes did **<u>not</u>** affect the appearance of the webpage on the
 ## **4. Image Comparison**
 
 ### Original Webpage <br>
-![Original Screenshot](Original-Webpage.png)<br> 
+![Original Screenshot](./Assets/Original-Webpage.png)<br> 
 ### Updated Webpage <br>
-![Updated Webpage Screenshoot](Updated-Webpage.png)
+![Updated Webpage Screenshoot](./Assets/Updated-Webpage.png)
